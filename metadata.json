@@ -1,0 +1,7 @@
+{
+  "name": "QR Scanner Pro",
+  "description": "Professional grade QR code scanner and generator powered by Gemini AI for smart content analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
